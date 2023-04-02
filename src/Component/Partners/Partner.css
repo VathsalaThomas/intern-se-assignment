@@ -1,0 +1,164 @@
+.partner{
+
+    width: 1920px;
+    height: 342px;
+    left: -262px;
+    top: 0px;
+    
+    background: #FFFFFF;
+    margin-top: 54px;
+    display: flex;
+}
+.havells{
+    margin-top: 93px;
+    box-sizing: border-box;
+    mix-blend-mode: luminosity;
+    opacity: 0.25;
+
+width: 280px;
+height: 168px;
+left: 280px;
+top: 0px;
+
+border-right: 1px solid #7A7A7A;
+}
+.google{
+    margin-top: 93px;
+    box-sizing: border-box;
+
+
+width: 280px;
+height: 168px;
+left: 280px;
+top: 0px;
+
+border-right: 1px solid #7A7A7A;
+}
+.wing{
+    box-sizing: border-box;
+margin-top: 93px;
+
+width: 280px;
+height: 168px;
+left: 560px;
+top: 0px;
+
+border-right: 1px solid #7A7A7A;
+}
+.jbl{
+    box-sizing: border-box;
+margin-top: 93px;
+
+width: 280px;
+height: 168px;
+left: 840px;
+top: 0px;
+
+border-right: 1px solid #7A7A7A;
+}
+.sony{
+    box-sizing: border-box;
+margin-top: 93px;
+
+width: 280px;
+height: 168px;
+left: 1120px;
+top: 0px;
+
+border-right: 1px solid #7A7A7A;
+}
+.nest{
+    box-sizing: border-box;
+
+    margin-top: 93px;
+    width: 280px;
+    height: 168px;
+    left: 1400px;
+    top: 0px;
+    
+    border-right: 1px solid #7A7A7A;
+}
+.image1{
+    width: 117px;
+height: 98px;
+margin-left: 100px;
+margin-top: 35px;
+
+
+}
+.icon2{
+    width: 156px;
+    height: 109px;
+    margin-left: 63px;
+    margin-top: 36px;
+    mix-blend-mode: luminosity;
+opacity: 0.5; 
+}
+.icon3{
+    width: 117px;
+    height: 98px;
+    margin-left: 80px;
+    margin-top: 34px;
+    mix-blend-mode: luminosity;
+    opacity: 0.5;  
+}
+
+
+.icon4{
+    
+width: 73px;
+height: 76px;
+margin-left: 103px;
+margin-top: 46px;
+
+
+
+mix-blend-mode: luminosity;
+opacity: 0.5;
+}
+.icon5{
+    
+width: 176px;
+height: 37px;
+margin-left: 52px;
+margin-top: 66px;
+
+
+mix-blend-mode: luminosity;
+opacity: 0.5;
+}
+.icon6{
+    
+width: 116px;
+height: 50px;
+margin-left: 67px;
+margin-top: 59px;
+
+
+mix-blend-mode: luminosity;
+opacity: 0.5;
+}
+
+.icon7{
+    
+width: 87px;
+height: 50px;
+margin-left: 96px;
+margin-top: 59px;
+
+mix-blend-mode: luminosity;
+opacity: 0.5;
+}
+.beko{
+    box-sizing: border-box;
+
+    margin-top: 93px;
+width: 280px;
+height: 168px;
+left: 1400px;
+top: 0px;
+
+border-right: 1px solid #7A7A7A;
+
+
+}

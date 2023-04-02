@@ -1,0 +1,56 @@
+.Media{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+gap: 20px;
+
+width: 343px;
+height: 147px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.05);
+border-radius: 10px;
+}
+.c-text{
+    display: flex;
+    flex-direction: column;
+}
+.c-text>:nth-child(1){
+    width: 104px;
+height: 29px;
+margin-top: 30px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+text-transform: capitalize;
+
+color: #000000;
+}
+.c-text>:nth-child(2){
+    width: 223px;
+height: 48px;
+
+margin-top: 10px;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+text-transform: capitalize;
+
+color: #333333;
+
+
+}
+.c-img{
+    height: 40px;
+    width: 40px;
+    margin-top: 30px;
+    margin-left: 30ox;
+}

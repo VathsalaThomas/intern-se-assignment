@@ -1,0 +1,64 @@
+.n-wrapper{
+    height:  10vh ;
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem;
+}
+
+.n-right{
+  
+    margin-right: 262px;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+}
+.n-left{
+    margin-left: 262px;
+    align-items: center;
+    
+}
+ .n-list{
+  flex: 10;
+ }
+    
+ .n-list > ul {
+   display: flex;
+   justify-content: space-between;
+   list-style-type: none;
+   gap: 2rem;
+   margin-right: 4rem;
+ }
+
+.n-button{
+   
+    align-items: center;
+    width: 125px;
+}
+.ellipse1{
+    width: 60px;
+height: 60px;
+
+background: #333333;
+
+/* Inside auto layout */
+border-radius: 100%;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -30px;
+z-index: 1;
+
+}
+.ellipse2{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    background: #808080;
+    
+    /* Inside auto layout */
+    margin: 0px 30px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    z-index: 0;
+}
